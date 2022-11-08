@@ -19,3 +19,14 @@
   "weight": "4",
   "image": "null"
 }
+
+{
+  "name": "chorizón",
+  "hp": "60",
+  "attack": "90",
+  "defense": "50",
+  "speed": "50",
+  "height": "50",
+  "weight": "4",
+  "image": "null"
+}
